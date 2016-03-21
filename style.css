@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+}
+.nav{
+    width: 100%;
+    list-style: none;
+    padding-bottom: 10%;
+}
+.nav_li{
+    display: inline;
+    margin-left: 4%;
+    font-size: 8px;
+}
+.nav_ul{
+    text-align: right;
+}
+.google_name{
+    vertical-align: middle;
+}
+.logo{
+    text-align: center;
+    vertical-align: middle;
+    font-size: 72px;
+    color:red;
+}
+.searh{
+    text-align: center;
+    padding-bottom: 10%;
+}
+.footer{
+    width: 100%;
+    font-size: 8px;
+    color: gray;
+}
+.footer ul{
+    list-style: none;
+}
+.footer li{
+    display: inline;
+}
+.left_footer{
+    margin-right: 5%;
+    float: left;
+    text-align: left;
+}
+.right_footer{
+    margin-right: 5%;
+    float: right;
+    text-align: right;
+}
